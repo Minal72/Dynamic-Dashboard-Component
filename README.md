@@ -22,4 +22,5 @@ This project may have bugs, and your feedback is valuable. If you encounter any 
 # Getting Started
 To get started with this Lightning Web Component, follow the steps outlined in the "Usage" section. Feel free to customize and extend the component based on your specific requirements.
 
- 
+ ![image](https://github.com/Minal72/Dynamic-Dashboard-Component/assets/62322887/8ce14886-6941-423b-9514-4107108f8526)
+
