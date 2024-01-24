@@ -10,6 +10,8 @@ Configurable Filters: Users can apply six different filters to refine and focus 
 
 Sortable Fields: Each field of the displayed object supports data sorting, similar to the functionality available on the standard records page in Salesforce.
 
+Dynamic Icons: The icon for the object is pulled from the tab icon that is set for that particular object.
+
 # Usage
 Install Salesforce CLI
 Install the Salesforce Extension pack in your VS Code
